@@ -79,6 +79,10 @@ img, video, audio {
 
 /*//// layout ///*/ 
 
+* {
+  box-sizing 
+}
+
 .wrapper {
   width: 1080;
   margin: 0 auto;
