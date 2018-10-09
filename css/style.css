@@ -119,4 +119,7 @@ img, video, audio {
 }
 
 /*////section////*/
-section
+section {
+  padding:20px;
+  margin:;
+}
