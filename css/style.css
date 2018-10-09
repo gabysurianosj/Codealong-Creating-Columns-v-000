@@ -80,7 +80,7 @@ img, video, audio {
 /*//// layout ///*/ 
 
 * {
-  box-sizing 
+  box-sizing: border-box;
 }
 
 .wrapper {
